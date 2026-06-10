@@ -133,13 +133,11 @@ The final classification map contains four classes:
 
 ![Morphology](images/morphology_pipeline.png)
 
-### Detection Overlay
+### Final Classification Map
 
 ![Detection](images/final_detection_overlay.png)
 
-### Final Classification Map
 
-![Classification](images/classification_map.png)
 
 ---
 
@@ -185,7 +183,7 @@ Posidonia-Oceanica-Detection/
 │   ├── ndvi_ndwi_analysis.png
 │   ├── morphology_pipeline.png
 │   ├── final_detection_overlay.png
-│   └── classification_map.png
+│  
 │
 └── data/
 ```
