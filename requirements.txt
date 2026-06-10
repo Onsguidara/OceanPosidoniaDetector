@@ -1,0 +1,9 @@
+streamlit
+numpy
+matplotlib
+pandas
+opencv-python-headless
+rasterio
+scipy
+ipywidgets
+ipython
